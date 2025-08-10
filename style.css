@@ -100,3 +100,21 @@ color: #919DAB;
 .sec-2-nav nav ul li{
 margin-right: 35px;
 }
+
+/* 
+@media screen and (max-width: 650px) {
+ 
+    .nav{
+    margin-left: -60px; 
+     margin-top: 20px;
+}
+
+.nav nav ul {
+     margin-left: 50px; 
+}
+
+.nav nav ul li{
+    margin-left: -15px;
+}
+
+} */
